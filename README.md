@@ -28,8 +28,8 @@ Data Cleaning, EDA, Feature Engineering, Data Visualization
 ## 🌱 Currently Exploring
 
 - Real-world Data Analytics problems  
-- Product thinking & user behavior  
-- Turning insights into decisions  
+- Turning insights into decisions
+- Retrieval-augmented generation (RAG) and graph-based approaches in multimedia  
 
 ## 📫 Contact
 
@@ -39,4 +39,4 @@ Data Cleaning, EDA, Feature Engineering, Data Visualization
 ---
 ⭐ *Always learning, always exploring, and always open to new opportunities.*
 
-![Chau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chau57&show_icons=true)
+![Chau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chau57&show_icons=true&theme=default)
