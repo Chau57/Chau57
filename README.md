@@ -1,23 +1,16 @@
 # 👋 Hi, I'm Chau
 
 🎓 Third-year Information Technology student at Ho Chi Minh University of Science  
-📊 Aspiring Data Analyst | Exploring Data & Product Thinking  
 📍 Ho Chi Minh City, Vietnam  
 
-## 🚀 About Me
+## About Me
+I am particularly interested in understanding how systems work end-to-end — from how data is structured and processed, to how insights are translated into decisions and eventually into user-facing products.
 
-Currently exploring how data can be used to understand systems and support better decision-making.
+While I have been building a foundation in data analytics, I am also curious about more complex systems such as retrieval-augmented generation and graph-based approaches in multimedia contexts. What connects these interests is not the specific domain, but the desire to understand how information flows through systems and creates meaningful outcomes.
 
-Interested in the intersection of **data analysis and product thinking** — where insights are not only extracted, but also translated into meaningful impact.
+At this stage, I am not limiting myself to a single label, but focusing on building strong fundamentals and exploring where I can create the most impact.
 
-Enjoy working on:
-- Analyzing datasets to uncover patterns and trends  
-- Structuring problems and designing logical flows  
-- Turning raw data into actionable insights  
-
-Focused on building strong foundations, gaining real-world exposure, and continuously refining direction through hands-on projects.
-
-## 🧠 Skills
+## Skills
 **Data Analysis:**  
 SQL, Python (pandas, NumPy, matplotlib), Power BI  
 **Programming:**  
@@ -25,16 +18,8 @@ Python, C/C++, Java
 **Concepts:**  
 Data Cleaning, EDA, Feature Engineering, Data Visualization  
 
-## 🌱 Currently Exploring
-
-- Real-world Data Analytics problems  
-- Turning insights into decisions
-- Retrieval-augmented generation (RAG) and graph-based approaches in multimedia  
-
-## 📫 Contact
-
-📧 chauvo005@gmail.com  
-🔗 https://github.com/Chau57  
-
----
 ⭐ *Always learning, always exploring, and always open to new opportunities.*
+
+## 📈 GitHub Stats
+
+![Chau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chau57&show_icons=true)
