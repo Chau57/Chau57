@@ -38,5 +38,3 @@ Data Cleaning, EDA, Feature Engineering, Data Visualization
 
 ---
 ⭐ *Always learning, always exploring, and always open to new opportunities.*
-
-![Chau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chau57&show_icons=true&theme=default)
