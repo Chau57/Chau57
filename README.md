@@ -19,7 +19,3 @@ Python, C/C++, Java
 Data Cleaning, EDA, Feature Engineering, Data Visualization  
 
 ⭐ *Always learning, always exploring, and always open to new opportunities.*
-
-## 📈 GitHub Stats
-
-![Chau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chau57&show_icons=true)
